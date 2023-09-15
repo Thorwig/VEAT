@@ -1,0 +1,11 @@
+.ant-select-item-option-content {
+  @apply text-[--orange] font-bold;
+}
+
+.ant-select-selection-item {
+  @apply text-[--orange];
+}
+
+.ant-select-item.ant-select-item-option.ant-select-item-option-active.ant-select-item-option-selected {
+  @apply bg-[--white-smoke];
+}
